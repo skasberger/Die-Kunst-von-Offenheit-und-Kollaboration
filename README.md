@@ -40,7 +40,6 @@ Es ist kein Laptop notwendig, aber irgendwas zum Notizen machen ist sicher sinnv
 
 ## EINLEITUNG
 
-
 ## OFFENHEIT UND KOLLABORATION BEI DESIGN
 
 Magdalena Reiter
@@ -55,27 +54,43 @@ Christopher Kittel
 
 ## Weird Questioning
 
-Stefan Kasberger
+Lead: Stefan Kasberger
+
+Zum Auflockern zu Beginn ein kleines Spiel. Gemeinsames in ein Thema rein gehen in 2-3er Gruppen. Dabei dürfen nur Fragen gestellt werden, also keine Urteile oder Aussagen. Am besten mit einer Grundlegenden Frage zu Beginn starten, und dann immer tiefer durch Fragen in das Thema einsteigen (z. B. Was ist Kreativität?).
 
 ## Welt-Cafe
 
-Stefan Kasberger
+Lead: Stefan Kasberger
+
+Auf je drei Tischen wird in Gruppen zu 4-6 Leuten eine vorgegebene Frage diskutiert. Die Leute teilen sich auf die Tische auf und fangen die 10-minütige Session an. Dabei wird die Diskussion auf einem großen Blatt Papier gemeinsam dokumentiert. Eine Person bleibt immer am Tisch, die restlichen Leute wechseln zu einem anderen Tisch ihrer Wahl bis alle 3 Fragen gemacht wurden.
+
+**Fragen**
+- Wo bist du gerne Offen?
+- Wo spielt Kollaborition ein Rolle in deinem Alltag?
+- Was ist für dich Kreativität?
 
 ## Mini-BarCamp
 
-Stefan Kasberger
+Lead: Stefan Kasberger
+
+[Barcamps](http://barcamp.at/) sind ad-hoc Unkonferenzen, in denen die üblichen Hierarchien zwischen Vortragenden und Teilnehmer_innen aufgebrochen werden. Alle sollen sich aktiv einbringen, entweder durch Fragen oder durch das Halten von Sessions. Die Sessions die gehalten werden, werden zu Beginn vorgeschlagen und in den Session-Plan eingetragen. Dabei kann es sich um Diskussions-Runden, Vorträge, dem Stellen einer Frage oder sonstigen Formaten handeln. Das ist den Teilnehmer_innen und Session-Hosts selber überlassen. Das Konzept BarCamp ist der Open Space Methode bei [Art of Hosting](http://www.artofhosting.org/de/) sehr ähnlich.
+
+Session-Format: 2 x 25min mit 5 Pause dazwischen. 2 Sessions parallel, also in Summe 4 Sessions.
+
+- [Jugend-Barcamps: Resourcen, Texte, Tools](http://jbc.medialepfade.de/)
 
 ## CIRCLE
 
-Stefan Kasberger
+Lead: Stefan Kasberger
 
-Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop noch kurz reflektieren.
+Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop gemeinsam kurz reflektieren. Ziel ist dabei, die zentralen Punkte zu identifizieren und auf einer Meta-Ebene den Workshop revue passieren zu lassen.
 
 ## FOLLOW UP'S
 - Werke auf dem [OpenDataPortal](http://opendataportal.at) eintragen.
 
-## REFERENCES
-- []()
+## QUELLEN
+- [Art of Hosting](http://www.artofhosting.org/de/)
+- [Barcamps in Österreich](http://barcamp.at/)
 
 
 
