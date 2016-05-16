@@ -3,7 +3,7 @@ Die Kunst von Offenheit und Kollaboration
 
 - Datum: 9. Mai 2016, 13-18 Uhr
 - Ort: AIL - Angewandte Innovation Lab, Franz Josefs Kai 3, 1010 Wien
-- Trainer: 
+- Trainer:
 	- [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria)
 	- [Christopher Kittel](https://twitter.com/chris_kittel)  (Open Knowledge Austria)
 	- [Magdalena Reiter](http://magdalenareiter.at/)
@@ -52,6 +52,43 @@ Magdalena Reiter
 
 Christopher Kittel
 
+Folien: [odp](assets/Metadaten-Dokumentation.odp), [pdf](assets/Metadaten-Dokumentation.pdf)
+
+**Metadaten**
+
+* Prinzipien: Metadaten sollen den Inhalt beschreiben und so Nutzbarkeit erhöhen und einen Kontext herstellen
+* Nutzen:
+	* Auffindbar in Suchmaschinen
+	* Verknüpfbar in Katalogen von Museen und Galerien
+	* Einfacher zu Kuratieren bei großen Sammlungen
+	* Erhöht Sichtbarkeit des Werks und damit auch des/der UrheberIn
+
+
+**Links**
+
+* [Einführung zu Categories for the Description of Works of Art](http://www.getty.edu/research/publications/electronic_publications/cdwa/introduction.html)
+	* [CDWA-Guide](cco.vrafoundation.org/index.php/toolkit/cco_pdf_version/)
+	* Beispiel [Installationskunst](http://core.vraweb.org/examples/html/example048_full.html)
+	* Beispiel [Performancekunst](http://core.vraweb.org/examples/html/example051_full.html)
+	* Beispiel [Statue in Gedenkstätte](http://core.vraweb.org/examples/html/example016_full.html)
+	* Beispiel [Architekturmodell](http://core.vraweb.org/examples/html/example004_full.html)
+	* Beispiel [Mumok](http://data.opendataportal.at/dataset/kunstwerke-der-sammlung-mumok/resource/cc5f337f-1f79-4b82-88e3-cdaaa7c4440e)
+	* [weitere Beispiele](http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/)
+* [Metadaten-Standards und Vokabularien](cco.vrafoundation.org/index.php/toolkit/metadata_standards/)
+
+**Dokumentation**
+* Warum?
+	* Für das zukünftige Selbst: Auch noch in einem Jahr verstehen warum man sich für dieses Material, für diese Perspektive, für dieses Werkzeug entschieden hat. Gute Dokumentation hilft die Idee hinter einem Werk zu vermitteln, in dem die eigenen Entscheidungsprozesse beschrieben werden, nicht nur “Wie ist es entstanden, sondern warum genau so”?
+	* Für andere: Gute Dokumentation ist ein weiterer Anknüpfungspunkt für Sichtbarkeit wenn es um Journalistinnen, Kuratorinnen, Kunsthistorikerinnen, mögliche Kollaborationspartnerinnen geht. Wenn es ein interaktives Werk ist das genutzt oder weiterverwendet werden soll, wollen Menschen wissen: Warum gibt es das? Was kann ich damit machen? Wie nutze ich das Werk?
+
+**Links/Beispiele**
+* Open Notebooks am Beispiel [Open Data Journalism](http://nbviewer.jupyter.org/github/brianckeegan/Bechdel/tree/master/)
+	* Link öffnen und `Bechdel_test.ipynb` klicken
+* Welche Fragen sind bei Dokumentation wichtig?
+	* [Tactical Tech Case Study](https://www.tacticaltech.org/projects/how-we-develop-guides) zu Toolkit für Kampagnen über Frauenrechte
+
+
+
 ## Weird Questioning
 
 Lead: Stefan Kasberger
@@ -91,7 +128,3 @@ Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop 
 ## QUELLEN
 - [Art of Hosting](http://www.artofhosting.org/de/)
 - [Barcamps in Österreich](http://barcamp.at/)
-
-
-
-
