@@ -67,14 +67,14 @@ Folien: [odp](assets/Metadaten-Dokumentation.odp), [pdf](assets/Metadaten-Dokume
 **Links**
 
 * [Einführung zu Categories for the Description of Works of Art](http://www.getty.edu/research/publications/electronic_publications/cdwa/introduction.html)
-	* [CDWA-Guide](cco.vrafoundation.org/index.php/toolkit/cco_pdf_version/)
+	* [CDWA-Guide](http://cco.vrafoundation.org/index.php/toolkit/cco_pdf_version/)
 	* Beispiel [Installationskunst](http://core.vraweb.org/examples/html/example048_full.html)
 	* Beispiel [Performancekunst](http://core.vraweb.org/examples/html/example051_full.html)
 	* Beispiel [Statue in Gedenkstätte](http://core.vraweb.org/examples/html/example016_full.html)
 	* Beispiel [Architekturmodell](http://core.vraweb.org/examples/html/example004_full.html)
 	* Beispiel [Mumok](http://data.opendataportal.at/dataset/kunstwerke-der-sammlung-mumok/resource/cc5f337f-1f79-4b82-88e3-cdaaa7c4440e)
 	* [weitere Beispiele](http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/)
-* [Metadaten-Standards und Vokabularien](cco.vrafoundation.org/index.php/toolkit/metadata_standards/)
+* [Metadaten-Standards und Vokabularien](http://cco.vrafoundation.org/index.php/toolkit/metadata_standards)
 
 **Dokumentation**
 * Warum?
