@@ -112,6 +112,11 @@ Lead: Stefan Kasberger
 
 Session-Format: 2 x 25min mit 5 Pause dazwischen. 2 Sessions parallel, also in Summe 4 Sessions.
 
+|        | Gruppe A | Gruppe B |
+|--------|----------|----------|
+| Slot 1 | [Kollaboration in Teams](assets/protokoll-kollaboration-in-teams.md) | Open Hardware Now! |
+| Slot 2 | Was ist mein Nutzen von Open .... und welche Unterstützungen gibt es? | Bilder |
+
 - [Jugend-Barcamps: Resourcen, Texte, Tools](http://jbc.medialepfade.de/)
 
 ## CIRCLE
