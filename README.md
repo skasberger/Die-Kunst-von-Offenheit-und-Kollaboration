@@ -87,8 +87,6 @@ Folien: [odp](assets/Metadaten-Dokumentation.odp), [pdf](assets/Metadaten-Dokume
 * Welche Fragen sind bei Dokumentation wichtig?
 	* [Tactical Tech Case Study](https://www.tacticaltech.org/projects/how-we-develop-guides) zu Toolkit für Kampagnen über Frauenrechte
 
-
-
 ## Weird Questioning
 
 Lead: Stefan Kasberger
@@ -128,3 +126,6 @@ Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop 
 ## QUELLEN
 - [Art of Hosting](http://www.artofhosting.org/de/)
 - [Barcamps in Österreich](http://barcamp.at/)
+- Publikation: [Thoughts on Open Innovation](http://www.openforumacademy.org/research/thoughts-on-open-innovation)
+- Publikation: [Jugend-Barcamps: Resourcen, Texte, Tools](http://jbc.medialepfade.de/)
+
