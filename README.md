@@ -42,11 +42,49 @@ Es ist kein Laptop notwendig, aber irgendwas zum Notizen machen ist sicher sinnv
 
 ## OFFENHEIT UND KOLLABORATION BEI DESIGN
 
-Magdalena Reiter
+Magdalena Reiter: [Präsentation](assets/einfuehrung offenheit.pdf)
+
+**Beispiele**
+- [Ronen Kadushin](http://www.ronen-kadushin.com/)
+- [Raumlabor Berlin](http://raumlabor.net/)
+- [Greg Saul](http://www.gregsaul.co.uk/), [Sketchchair](http://diatom.cc/sketchchair)
+- [Van Bo Le Mentzel](http://hartzivmoebel.blogspot.co.at/): [Karma Chakhs](https://www.startnext.de/karma-chakhs)
+- [Enzo Mari & Cucula](http://www.cucula.org/)
+- [Studio Swine](http://www.studioswine.com/sea-chair)
+- [Open Source Ecology](http://opensourceecology.org/)
+- [e-NABLE](http://enablingthefuture.org/)
+
+**Communities**
+- [Open Design & Hardware Group](http://design.okfn.org/)
+- [Open Hardware and Design Alliance](http://www.ohanda.org/)
+- [CREATIVE REGION Linz & Upper Austria](http://creativeregion.org/projekte/open-design/)
+- [http://www.magdalenareiter.at/](http://www.magdalenareiter.at/), [Make Design Open](http://www.makedesignopen.com/)
 
 ## LIZENZRECHT
 
-Magdalena Reiter
+Magdalena Reiter: [Präsentation](assets/offene_lizenzen.pdf)
+
+- [Creative Commons](http://creativecommons.org/)
+- [iRights.info](http://irights.info/)
+
+**Freier Content**
+- [Creative Commons Search (Metadatenbank)](http://search.creativecommons.org/)
+- [Europeana (Metadatenbank)](http://www.europeana.eu/portal/)
+- [Wikimedia Commons](http://commons.wikimedia.org/wiki/Hauptseite)
+- [Pixabay](http://pixabay.com/)
+- [NounProject](http://thenounproject.com/)
+- [Google: Advanced Search](https://www.google.at/advanced_search)
+- [Google: Advanced Image Search](http://www.google.at/advanced_image_search)
+- [Flickr: Advanced Search](https://www.flickr.com/search/advanced/)
+- [Vimeo](http://vimeo.com/creativecommons): Tipp: Einfach die Suche verwenden und dann unter den Filtern die Lizenz wählen.
+- [YouTube](https://www.youtube.com/): Tipp: Einfache Suche verwenden und dann den Creative-Commons-Filter einschalten. Achtung: Es gibt auf YouTube momentan nur die CC-BY Lizenz.
+- [Soundcloud](http://search.creativecommons.org/): Tipp: Suche über Creative Commons Metadatenbank verwenden.
+- [Jamendo](https://www.jamendo.com/de)
+- [Thingiverse](http://www.thingiverse.com/)
+- [instructables](http://www.instructables.com/)
+- [knowable](http://knowable.org/)
+- [OpenStructures](http://www.openstructures.net/)
+- [Appropedia](http://www.appropedia.org/)
 
 ## Metadaten und Dokumentation
 
@@ -111,13 +149,15 @@ Lead: Stefan Kasberger
 [Barcamps](http://barcamp.at/) sind ad-hoc Unkonferenzen, in denen die üblichen Hierarchien zwischen Vortragenden und Teilnehmer_innen aufgebrochen werden. Alle sollen sich aktiv einbringen, entweder durch Fragen oder durch das Halten von Sessions. Die Sessions die gehalten werden, werden zu Beginn vorgeschlagen und in den Session-Plan eingetragen. Dabei kann es sich um Diskussions-Runden, Vorträge, dem Stellen einer Frage oder sonstigen Formaten handeln. Das ist den Teilnehmer_innen und Session-Hosts selber überlassen. Das Konzept BarCamp ist der Open Space Methode bei [Art of Hosting](http://www.artofhosting.org/de/) sehr ähnlich.
 
 Session-Format: 2 x 25min mit 5 Pause dazwischen. 2 Sessions parallel, also in Summe 4 Sessions.
+- [Jugend-Barcamps: Resourcen, Texte, Tools](http://jbc.medialepfade.de/)
+
+Wenn eine Session einen Link hat, gibt es dazu ein Protokoll.
 
 |        | Gruppe A | Gruppe B |
 |--------|----------|----------|
 | Slot 1 | [Kollaboration in Teams](assets/protokoll-kollaboration-in-teams.md) | Open Hardware Now! |
 | Slot 2 | Was ist mein Nutzen von Open .... und welche Unterstützungen gibt es? | Bilder |
 
-- [Jugend-Barcamps: Resourcen, Texte, Tools](http://jbc.medialepfade.de/)
 
 ## CIRCLE
 
